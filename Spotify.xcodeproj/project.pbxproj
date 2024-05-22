@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		732C4F3A2BE3C00C00CAEA54 /* AuthResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 732C4F392BE3C00C00CAEA54 /* AuthResponse.swift */; };
+		732C4F3C2BFC91BE00CAEA54 /* SettingsModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = 732C4F3B2BFC91BE00CAEA54 /* SettingsModels.swift */; };
 		73DB5FEC2BCE5E5300B05D24 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73DB5FEB2BCE5E5300B05D24 /* AppDelegate.swift */; };
 		73DB5FEE2BCE5E5300B05D24 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73DB5FED2BCE5E5300B05D24 /* SceneDelegate.swift */; };
 		73DB5FF02BCE5E5300B05D24 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73DB5FEF2BCE5E5300B05D24 /* HomeViewController.swift */; };
@@ -35,6 +36,7 @@
 
 /* Begin PBXFileReference section */
 		732C4F392BE3C00C00CAEA54 /* AuthResponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AuthResponse.swift; sourceTree = "<group>"; };
+		732C4F3B2BFC91BE00CAEA54 /* SettingsModels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsModels.swift; sourceTree = "<group>"; };
 		73DB5FE82BCE5E5200B05D24 /* Spotify.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Spotify.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		73DB5FEB2BCE5E5300B05D24 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		73DB5FED2BCE5E5300B05D24 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -128,6 +130,7 @@
 				73DB60262BCFC2B800B05D24 /* Artist.swift */,
 				73DB60282BCFC2D300B05D24 /* UserProfile.swift */,
 				732C4F392BE3C00C00CAEA54 /* AuthResponse.swift */,
+				732C4F3B2BFC91BE00CAEA54 /* SettingsModels.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -272,6 +275,7 @@
 				73DB602B2BCFD9FA00B05D24 /* Extensions.swift in Sources */,
 				73DB5FEC2BCE5E5300B05D24 /* AppDelegate.swift in Sources */,
 				73DB60272BCFC2B800B05D24 /* Artist.swift in Sources */,
+				732C4F3C2BFC91BE00CAEA54 /* SettingsModels.swift in Sources */,
 				73DB60192BCFC16E00B05D24 /* PlaylistViewController.swift in Sources */,
 				73DB600A2BCFC08300B05D24 /* LibraryViewController.swift in Sources */,
 				73DB60172BCFC14F00B05D24 /* PlayerViewController.swift in Sources */,
